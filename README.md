@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Landing iPhone13 Clone</h1>
-  <p>Landing iPhone13 Clone, com a possibilidade de visualização das cores dos aparelhos por meio de botões.</p>
+  <p>Landing iPhone13 Clone, com a possibilidade de visualização das cores dos aparelhos por meio de botões, com estudos sobre HTML semântico, CSS e logica de programação.</p>
   <img src="./design/desktop.png" alt="Logo" width="800">
 </div>
 
@@ -15,7 +15,7 @@
 * [Licença](#licença)
 
 # 📃 <span id="descrição">Descrição</span>
-Landing iPhone13 Clone, com a possibilidade de visualização das cores dos aparelhos por meio de botões, utilizando JavaScript.
+Landing iPhone13 Clone, com a possibilidade de visualização das cores dos aparelhos por meio de botões, utilizando JavaScript. Com estudos sobre HTML semântico, CSS e logica de programação.
 
 # 📌 <span id="requisitos">Requisitos Funcionais</span>
 - [x] Visualização das cores disponíveis<br>
