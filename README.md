@@ -41,7 +41,7 @@ Landing iPhone13 Clone, com a possibilidade de visualização das cores dos apar
 # 🚀 <span id="instalação">Instalação</span>
 ```bash
   # Clone este repositório:
-  $ git clone https://github.com/CleilsonAndrade/landing_iphone13_clone
+  $ git clone https://github.com/CleilsonAndrade/landing_iphone13_clone.git
   $ cd ./landing_iphone13_clone
 ```
 
